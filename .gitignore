@@ -1,0 +1,19 @@
+# Gizli bilgiler
+.env
+
+# Calisma zamaninda olusan veriler
+destek.db
+sohbet_gecmisi.json
+telefon_sohbetleri.json
+notlar.txt
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Bu projeyle ilgisi olmayan diger klasorler
+SunucuFlowPass/
+discord-bot-altyapi/
+sunucuflow-translator/
+SyntaxError.py
